@@ -32,3 +32,12 @@ body
     background: white;
     text-align: center;
 }
+
+#titulos
+{
+    color:white;
+    background: black;
+    text-align: center;
+    padding: .1em;
+    margin: 1em;
+}
